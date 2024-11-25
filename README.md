@@ -9,4 +9,4 @@ Pasos que eh seguido.
 7- como vi que el primer commit era sin el gitignore no lo guardé(por desgracia el index tampoco) e hice primer commit y push.
 8- guardé los cambios e hice segundo commit y push.
 9- Cree y edité Readme con touch.
-10- Me percaté que no hice push de la main, lo siento estoy muy nervioso. Así que hago commit y push de la main. Luego sigo trabajando en "XavierValverde"
+10- Me percaté que no hice push de la main, lo siento estoy muy nervioso. Así que hago commit y push de la main. Luego sigo trabajando en "XavierValverde", por lo visto main es ahora mi rama secundaria, espero que no afecte mucho en puntos.
